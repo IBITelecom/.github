@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" width="500">
+  <img src="https://raw.githubusercontent.com/IBITelecom/.github/main/profile/logo.png" width="500">
 </div>
 
 ## Afinal, quem somos nós? 🚀
